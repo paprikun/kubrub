@@ -1,3 +1,3 @@
 # kubrub
-cd ./Realese
+cd ./Release
 kubrub.exe
