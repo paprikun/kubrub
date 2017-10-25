@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kubrub", "kubrub\kubrub.vcproj", "{E86E2BC7-3DDC-400E-B015-E3A87471C085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E86E2BC7-3DDC-400E-B015-E3A87471C085}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E86E2BC7-3DDC-400E-B015-E3A87471C085}.Debug|Win32.Build.0 = Debug|Win32
+		{E86E2BC7-3DDC-400E-B015-E3A87471C085}.Release|Win32.ActiveCfg = Release|Win32
+		{E86E2BC7-3DDC-400E-B015-E3A87471C085}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
